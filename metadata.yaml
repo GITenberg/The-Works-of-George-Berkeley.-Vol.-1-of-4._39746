@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '36079'
     url: http://www.gutenberg.org/2009/agents/36079
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39746#The-Works-of-George-Berkeley.-Vol.-1-of-4.
 gutenberg_issued: '2012-05-20'
 gutenberg_type: Text
 identifiers:
